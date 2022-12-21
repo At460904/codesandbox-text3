@@ -21,7 +21,7 @@ val2 = "let変数を上書き";
 console.log(val2);
 
 // letは再宣言不可能
-// let val2 = "let変数を再宣言";
+// let val2 = "let変数を再宣言";aaa
 
 // const
 const val3 = "const変数";
